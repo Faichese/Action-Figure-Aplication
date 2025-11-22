@@ -1,0 +1,54 @@
+name: my_figure_aplication
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Dependensi yang dibutuhkan aplikasi untuk berjalan (runtime)
+  cupertino_icons: ^1.0.8
+  marquee: ^2.2.0 # Package animasi teks bergerak
+  shared_preferences: ^2.2.2
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+  # Package standar untuk Flutter linter
+  flutter_lints: ^3.0.0
+  
+  # Package untuk ikon aplikasi (hanya dibutuhkan saat pengembangan/build)
+  flutter_launcher_icons: "^0.13.1" 
+
+# --- BLOK KONFIGURASI LAUNCHER ICON ---
+# Blok ini harus sejajar dengan 'flutter:'
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/Logo_FigureVerse_biru.png"
+  min_sdk_android: 21
+
+# --- BLOK KHUSUS FLUTTER (Aset) ---
+flutter:
+  uses-material-design: true
+
+  # Cara mendaftarkan aset yang PALING DISARANKAN adalah mendaftarkan foldernya saja
+  assets:
+    - assets/Gundam.jpg
+    - assets/Ironman.png
+    - assets/Logo_FigureVerse_biru.png
+    - assets/Logo_Toko FigureVerse.png
+    - assets/Profile.png
+    - assets/Batman.jpg
+    - assets/Luffy.jpg
+    - assets/Naruto.jpg
+    - assets/Zoro.jpg
+    - assets/ZoroW.jpg
+    
+  
