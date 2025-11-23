@@ -1,4 +1,4 @@
-# my_figure_aplication
+# FigureVerse
 
 A new Flutter project.
 
