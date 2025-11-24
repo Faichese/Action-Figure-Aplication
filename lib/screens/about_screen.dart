@@ -25,7 +25,7 @@ class AboutScreen extends StatelessWidget {
               CircleAvatar(
                 radius: 60,
                 // Menggunakan AssetImage
-                backgroundImage: const AssetImage('assets/Profile.png'),
+                backgroundImage: const AssetImage('assets/Logo_Toko FigureVerse.png'),
                 backgroundColor: const Color.fromARGB(255, 2, 200, 218),
                 child:
                     Container(), // Child kosong untuk menghilangkan peringatan
