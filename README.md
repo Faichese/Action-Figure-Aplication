@@ -3,11 +3,9 @@
 Aplikasi toko action figure terbaik, Pelayanan cepat barang sudah pasti 100% ori.
 
 # Biodata
-```Nama  ```: Faisal Muhamad Rizqi
-
-```Nim   ```: 23552012015
-
-```Class ```: TIF RP 23 CID A
+Nama  : Faisal Muhamad Rizqi
+Nim   : 23552012015
+Class : TIF RP 23 CID A
 
 # Fitur Utama:
   - Splash Screen
