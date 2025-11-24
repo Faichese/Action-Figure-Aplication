@@ -28,8 +28,8 @@ Aplikasi toko action figure terbaik, Pelayanan cepat barang sudah pasti 100% ori
 
 
 # Stuktruk Proyek 
-
-```FigureVerse
+```
+FigureVerse/
 lib/
 ├── assets/
 │   ├── Batman.jpg
