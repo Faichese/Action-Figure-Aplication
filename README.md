@@ -1,10 +1,26 @@
-# FigureVerse
+# FigureVerse App - Project Flutter
 
-A new Flutter project.
+Aplikasi toko action figure terbaik, Pelayanan cepat barang sudah pasti 100% ori.
 
-## Getting Started
+# Biodata
+Nama  : Faisal Muhamad Rizqi
+Nim   : 23552012015
+Class : TIF RP 23 CID A
 
-This project is a starting point for a Flutter application.
+# Fitur Utama:
+  - Splash Screen
+  - Register/Login
+  - Home Screen
+  - Checkout
+  - Detail Items
+  - Product Card
+
+# Library
+  - cupertino_icons: ^1.0.8
+  - marquee: ^2.2.0 
+  - shared_preferences: ^2.2.2
+
+# Tampilan 
 
 
 
@@ -12,7 +28,9 @@ This project is a starting point for a Flutter application.
 
 
 # Stuktru Proyek 
-```lib/
+
+```FigureVerse
+lib/
 ├── assets/
 │   ├── Batman.jpg
 │   ├── Gundam.jpg
@@ -42,3 +60,4 @@ This project is a starting point for a Flutter application.
 └── widgets/
 │    └── product_card.dart   # Widget custom untuk tampilan item
 ├── main.dart               # Entry point & Routing
+└── Readme.md
