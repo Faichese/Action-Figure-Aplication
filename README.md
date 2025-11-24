@@ -27,7 +27,7 @@ Aplikasi toko action figure terbaik, Pelayanan cepat barang sudah pasti 100% ori
 
 
 
-# Stuktru Proyek 
+# Stuktruk Proyek 
 
 ```FigureVerse
 lib/
