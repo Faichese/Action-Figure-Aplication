@@ -21,15 +21,15 @@ Aplikasi toko action figure terbaik, Pelayanan cepat barang sudah pasti 100% ori
   - shared_preferences: ^2.2.2
 
 # Tampilan 
-https://drive.google.com/open?id=1RijJA__QB15voKTPBgjHbdvYtyMDWaP_&usp=drive_copy
-https://drive.google.com/open?id=1DYcx2KP_uGd0EPTOuwPJVtU4QsBCnZMM&usp=drive_copy
-https://drive.google.com/open?id=1RsCl02gz46S7ercZsTtJQKjvuPimZAwI&usp=drive_copy
-https://drive.google.com/open?id=1zX8wrXMmjsUxx0F6252DNRGQ_mUn-PpF&usp=drive_copy
-https://drive.google.com/open?id=1hC-2n4nIarpkZ_IRzVw948Ns4TvQ1OBb&usp=drive_copy
-https://drive.google.com/open?id=196N92WZDZEOUFw2_i9wFaqzSrPqND8RJ&usp=drive_copy
-https://drive.google.com/open?id=1JMwyn3vdMpBVYLN5id5HaP27pke2xrBx&usp=drive_copy
-https://drive.google.com/open?id=1yJ-J_aAcRInmRw5Nl9unvvqPxyIpJ_at&usp=drive_copy
-https://drive.google.com/open?id=19N0TL9fyIragvHpWEatWyFbcPTw6QiSU&usp=drive_copy
+![Screenshot_2025-11-24-20-55-13-42](https://github.com/user-attachments/assets/f48ca063-0c97-44fd-bff6-5f13216ed825)
+![Screenshot_2025-11-24-20-54-54-14](https://github.com/user-attachments/assets/9edc0eda-f3de-44cf-b0c1-0854e3f99dde)
+![Screenshot_2025-11-24-20-55-31-66](https://github.com/user-attachments/assets/bb00cb2f-7b65-4726-9186-4ba91a34a691)
+![Screenshot_2025-11-24-20-56-38-76](https://github.com/user-attachments/assets/62a500e1-c0f7-4eda-ae49-45571ed3bdaf)
+![Screenshot_2025-11-24-20-56-50-78](https://github.com/user-attachments/assets/576638ac-c5c6-4358-ad1d-fd84dc6cc297)
+![Screenshot_2025-11-24-22-20-27-59](https://github.com/user-attachments/assets/07ea35f6-03ca-47ff-b46b-c185e0d1b8b1)
+![Screenshot_2025-11-24-20-57-18-45](https://github.com/user-attachments/assets/21274914-3da7-4d3c-8f96-661d21740466)
+![Screenshot_2025-11-24-20-57-26-63](https://github.com/user-attachments/assets/a2f4e79a-07d3-459c-bda1-66a1804a56f9)
+![Screenshot_2025-11-24-22-20-35-36](https://github.com/user-attachments/assets/06a480c9-c8a6-47ba-a510-858a1f31328f)
 
 
 
